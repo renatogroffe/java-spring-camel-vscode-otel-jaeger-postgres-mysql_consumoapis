@@ -18,7 +18,7 @@ Variáveis de ambiente a serem configuradas para uso de tracing distribuído com
 | OTEL_SERVICE_NAME                 | consumerspringcamel     |
 | OTEL_TRACES_EXPORTER              | otlp                    |
 
-Essas variáveis e o parâmetro carregando o Agent do OpenTeletry (**vmArgs**) foram configurados no arquivo **launch.json**, para debugging a partir do Visual Studio Code:
+O parâmetro carregando o Agent do OpenTeletry (**vmArgs**) e essas variáveis foram configuradas no arquivo **launch.json**, para debugging a partir do Visual Studio Code:
 
 ```json
 {
