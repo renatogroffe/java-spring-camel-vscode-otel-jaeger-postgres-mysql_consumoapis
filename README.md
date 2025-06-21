@@ -1,0 +1,2 @@
+# java-spring-camel-vscode-otel-jaeger-postgres-mysql_consumoapis
+Exemplo de aplicação criada com Java + Spring + Apache Camel e utilizando Distributed Tracing com Jaeger + OpenTelemetry (configurando porta do Collector) e consumindo APIs REST (uma destas depende de bases PostgreSQL + MySQL). Inclui Docker Compose de ambiente que faz uso de soluções como Jaeger + configurações para execução via VS Code.
